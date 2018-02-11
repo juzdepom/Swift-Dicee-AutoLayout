@@ -1,15 +1,7 @@
-# Auto Layout with Dicee Starting Project (Video Tutorials)
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Dicee+ App
-
-
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
-Pro: Git clone to your Xcode projects folder.
+# iOS 11 Swift 4 Course
 
 ## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Dicee%2B.gif)
+![Finished App](https://www.udemy.com/ios-11-app-development-bootcamp/learn/v4/t/lecture/7556030?start=0)
 
 
-
-Copyright © The App Brewery
 
